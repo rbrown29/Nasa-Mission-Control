@@ -14,9 +14,9 @@
 * View Upcoming missions including both SpaceX launches and newly scheduled.
 * View the history of mission launches including SpaceX launches starting from the year 2006.
 
-`Schedule a mission using only confirmed planets matching the following criteria from kepler_data.csv`
-`* Planetary radius < 1.6 times Earth's radius`
-`* Effective stellar flux > 0.36 times Earth's value and < 1.11 times Earth's value`
+#### Schedule a mission using only confirmed planets matching the following criteria from kepler_data.csv
+* Planetary radius < 1.6 times Earth's radius.
+* Effective stellar flux > 0.36 times Earth's value and < 1.11 times Earth's value.
 
 ## Getting Started
 
