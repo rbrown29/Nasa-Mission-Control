@@ -31,6 +31,6 @@
 2. Browse to the mission control frontend at [localhost:8000](http://localhost:8000) and schedule an interstellar launch!
 
 ![NASA](/1.png?raw=true{:height="50px"width="50px"})
-![NASA](/2.png?raw=true{:height="50px"width="50px"})
+![NASA](/2.2.png?raw=true{:height="50px"width="50px"})
 ![NASA](/3.png?raw=true{:height="50px"width="50px"})
 ![NASA](/4.png?raw=true{:height="50px"width="50px"})
