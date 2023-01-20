@@ -123,7 +123,7 @@ async function scheduleNewLaunch(launch) {
   const newLaunch = Object.assign(launch, {
     success: true,
     upcoming: true,
-    customers: ['Zero to Mastery', 'NASA'],
+    customers: ['Digit', 'NASA'],
     flightNumber: newFlightNumber,
   });
 
