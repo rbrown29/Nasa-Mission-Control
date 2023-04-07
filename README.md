@@ -1,5 +1,8 @@
 # Nasa Mission Control
 
+#### A web application that allows users to schedule a mission to one of the Kepler Exoplanets. The application is built using the MERN stack and Arwes- A Futuristic Sci-Fi UI Web Framework.
+
+#### Live Demo: https://nasa-mission-control.onrender.com/
 
 ### Tecnologies Used
 
