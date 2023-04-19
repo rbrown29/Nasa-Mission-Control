@@ -6,12 +6,12 @@
 
 ### Tecnologies Used
 
-* EXPRESS
-* NODE JS
-* MONGO DB
-* REACT
-* MONGOOSE
-* Arwes- A Futuristic Sci-Fi UI Web Framework
+* ![Express](https://img.shields.io/badge/EXPRESS-Middleware-orange)
+* ![Node](https://img.shields.io/badge/NODE-JS-brightgreen)
+* ![Mongo DB](https://img.shields.io/badge/MONGO-DB-green)
+* ![React](https://img.shields.io/badge/React-JS-blue)
+* ![Mongoose](https://img.shields.io/badge/MONGOOSE-JS-yellowgreen)
+* ![Arwes](https://img.shields.io/badge/ARWES%20-Futuristic%20Sci--Fi%20and%20Cyberpunk%20Graphical%20User%20Interface%20Framework-blue)
 
 #### Users can--- 
 * Schedule a mission launch for interstellar travel to one of the Kepler Exoplanets.
