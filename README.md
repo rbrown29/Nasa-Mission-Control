@@ -1,6 +1,7 @@
 # Nasa Mission Control
 
-![cluster](https://user-images.githubusercontent.com/53094729/233310541-f9626713-1895-410e-a372-d16a394c9dfa.gif)
+<img src="https://user-images.githubusercontent.com/53094729/233561800-a91ebfb0-65a4-4f99-aede-83441391c2a6.gif" />
+
 
 
 #### A web application that allows users to schedule a mission to one of the Kepler Exoplanets. The application is built using the MERN stack and Arwes- A Futuristic Sci-Fi UI Web Framework.
@@ -37,7 +38,7 @@
 1. In the terminal, run: `npm run deploy`
 2. Browse to the mission control frontend at [localhost:8000](http://localhost:8000) and schedule an interstellar launch!
 
-![NASA](/1.png?raw=true{:height="50px"width="50px"})
-![NASA](/2.2.png?raw=true{:height="50px"width="50px"})
-![NASA](/3.png?raw=true{:height="50px"width="50px"})
-![NASA](/4.png?raw=true{:height="50px"width="50px"})
+<img src="/1.png" />
+<img src="/2.2.png" />
+<img src="/3.png" />
+<img src="/4.png" />
