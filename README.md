@@ -1,6 +1,6 @@
 # Nasa Mission Control
 
-<img src="https://user-images.githubusercontent.com/53094729/233561800-a91ebfb0-65a4-4f99-aede-83441391c2a6.gif" style="width: 200px" />
+<img src="https://user-images.githubusercontent.com/53094729/236399924-1325616f-3bd8-40b8-bbc3-06f0171bd0e3.gif" width="800" />
 
 #### A web application that allows users to schedule a mission to one of the Kepler Exoplanets. The application is built using the MERN stack and Arwes- A Futuristic Sci-Fi UI Web Framework.
 
